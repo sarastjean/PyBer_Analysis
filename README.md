@@ -7,6 +7,8 @@
 
 ![](https://github.com/sarastjean/PyBer_Analysis/blob/master/analysis/Fig9.png)
 
+![]()
+
 ### Challenges and Difficulties
 
   I had difficulty creating the pivot table. The steps above this were to create a new Dataframe which I did not think was necessary and pivoted the created data frame in the previous steps. In a job, there will be many follow up questions from your boss or CEO that you didn’t think to investigate so it’s good to have a comprehensive understanding of all the date and ways that it can be analyzed. There were a few steps that did not seem necessary  but overall, I was able to create both charts and linear graph without much difficulty. Thankful that my Google search skill is getting stronger with each challenge and access to TAs.
