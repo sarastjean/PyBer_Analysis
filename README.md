@@ -7,7 +7,11 @@
 
 ![](https://github.com/sarastjean/PyBer_Analysis/blob/master/analysis/Fig9.png)
 
-![]()
+![](https://github.com/sarastjean/PyBer_Analysis/blob/master/analysis/Fig6.png)
+
+![](https://github.com/sarastjean/PyBer_Analysis/blob/master/analysis/Fig1.png)
+
+
 
 ### Challenges and Difficulties
 
